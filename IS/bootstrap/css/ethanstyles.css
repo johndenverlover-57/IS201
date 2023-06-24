@@ -1,0 +1,13 @@
+.c-info{
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.hd{
+    font-size: 22px;
+}
+
+.bod{
+    break-before: avoid;
+}
